@@ -1,0 +1,15 @@
+main{
+    position: relative;
+    left: 10%;
+    width: 80%;
+}
+#leading{
+    text-align: center;
+}
+#focus{
+    position: relative;
+    left: 15%;
+    width: 70%;
+    border: 5px double gray;
+    padding: 3px;
+}
